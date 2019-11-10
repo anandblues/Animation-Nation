@@ -1459,7 +1459,14 @@ let cards = [
 	imageLink: "./Art/Alara Joel/stealth ghost.png",
 	author: "Alara Joel",
 	githubLink: "https://github.com/stealthman22"
-}
+},
+{
+      artName: "moving eyes",
+      pageLink: "./Art/moving eyes/test.html",
+      imageLink: "./Art/moving eyes/eyes.gif",
+      author: "anandblues",
+      githubLink: "https://github.com/anandblues"
+    }
 ];
 
 // +--------------------------------------------------------------------------------+
